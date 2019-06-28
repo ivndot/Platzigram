@@ -1,0 +1,50 @@
+<resources>
+
+    <!---Login-->
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="edittext_size_login">22sp</dimen>
+    <dimen name="padding_login">32dp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="height_viewimage">200dp</dimen>
+    <dimen name="cornerradius_cardview">4dp</dimen>
+    <dimen name="usernamecard_textize">25sp</dimen>
+    <dimen name="time_margin">5dp</dimen>
+    <dimen name="firstword_textsize">15sp</dimen>
+    <dimen name="bottomnavigation_size">70dp</dimen>
+    <dimen name="margin_bottom_cardview">10dp</dimen>
+    <dimen name="appbarlayout_height">256dp</dimen>
+    <dimen name="margin_username_detail">15dp</dimen>
+    <dimen name="textsize_username_detail">25sp</dimen>
+    <dimen name="textsize_likenumber_detail">15sp</dimen>
+    <dimen name="marginleft_secondword">7dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="paddingtop_tiitleimage_detail">20dp</dimen>
+    <dimen name="padding_contentimage_detail">35dp</dimen>
+    <dimen name="edittext_size_login_error">11sp</dimen>
+
+    <!--- Profile-->
+
+    <dimen name="textsize_username_profile">30sp</dimen>
+    <dimen name="width_ciircleimage">160dp</dimen>
+    <dimen name="margin_circle_image">30dp</dimen>
+    <dimen name="elevation_circleimage_profile">10dp</dimen>
+    <dimen name="limity_circle_image">-156dp</dimen>
+    <dimen name="margintop_toolbar_circleimage_profile">8dp</dimen>
+    <dimen name="width_circleimage_toolbar">40dp</dimen>
+    <dimen name="textsize_username_toolbar_profile">15sp</dimen>
+    <dimen name="marginleft_username_toolbar_profile">80dp</dimen>
+    <dimen name="margintop_username_toolbar__profile">-100dp</dimen>
+    <dimen name="limity_username_toolbar_profile">-206dp</dimen>
+    <dimen name="margintop_toolbar_username_profile">12dp</dimen>
+    <dimen name="marginleft_toolbar_circleimage_profile">25dp</dimen>
+
+    <!--- Search-->
+
+    <dimen name="margin_top_searchview">20dp</dimen>
+    <dimen name="elevation_searchview">5dp</dimen>
+    <dimen name="drawable_padding_edittextsearch">30dp</dimen>
+    <dimen name="elevation_edittext">5dp</dimen>
+    <dimen name="padding_edittext_search">20dp</dimen>
+</resources>

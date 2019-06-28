@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Platzigram</string>
+    <string name="title_activity_prueba">Prueba</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">login</string>
+    <string name="view_donthaveaccount">¿No tienes una cuenta?,</string>
+    <string name="view_createhere"> crea una aquí</string>
+    <string name="imagedescription_platzigram">logo de platzigram</string>
+    <string name="hint_mail">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="btn_joinus">Únete</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="viewusernamecard_card">Uriel Ramírez</string>
+    <string name="firstword_card">Hace</string>
+    <string name="time_card">4 días</string>
+    <string name="countlikes_card">10 Me Gusta</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Buscar</string>
+    <string name="home">Home</string>
+    <string name="profile">Yo</string>
+    <string name="toolbar_tittle_fragmenthome">Home</string>
+    <string name="second_word_detail">Me Gusta</string>
+    <string name="text_tittleimage_detail">\"Todo copas en la playa\"</string>
+    <string name="text_contentimage_detail">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Hac habitasse platea dictumst vestibulum rhoncus est. Sed elementum tempus egestas sed sed risus pretium quam vulputate. Vel risus commodo viverra maecenas. Elementum tempus egestas sed sed risus. Nam at lectus urna duis convallis convallis. Hendrerit gravida rutrum quisque non tellus orci ac auctor augue. Enim eu turpis egestas pretium aenean pharetra. Pellentesque pulvinar pellentesque habitant morbi tristique. Purus viverra accumsan in nisl nisi scelerisque eu ultrices. Lorem donec massa sapien faucibus et molestie. Arcu non odio euismod lacinia. Non enim praesent elementum facilisis leo vel fringilla. Consequat mauris nunc congue nisi vitae. Volutpat blandit aliquam etiam erat velit. Fermentum odio eu feugiat pretium nibh ipsum consequat nisl vel. Rutrum quisque non tellus orci ac auctor augue mauris augue. Ultrices neque ornare aenean euismod elementum nisi quis. Nunc id cursus metus aliquam. Amet tellus cras adipiscing enim eu turpis egestas pretium.</string>
+    <string name="transitionName">transitionName</string>
+    <string name="hint_searchuser">Buscar fotos...</string>
+</resources>

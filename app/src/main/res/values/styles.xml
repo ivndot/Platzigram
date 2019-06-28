@@ -1,0 +1,88 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDisablePreview">true</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    //boton login
+
+    <style name="RaisedButton" parent="Theme.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorPrimaryDark</item> //color del boton cuando no esta siendo presionado
+        <item name="colorControlHighlight">@color/colorPrimary</item> //color del boton cuando esta siendo presionado
+        <item name="android:textColor">@android:color/white</item> //color del texto que hay dentro del boton
+    </style>
+
+    //floatingactionbutton
+
+    <style name="FloatingActionButton" >
+        <item name="colorButtonNormal">@color/colorAccent</item> //color del boton cuando no esta siendo presionado
+        <item name="colorControlHighlight">@color/colorAccent</item> //color del boton cuando esta siendo presionado
+
+    </style>
+
+    //edit text login
+
+    <style name="EditTextWhite" parent="Theme.AppCompat">
+        <item name="android:textColorHint">@android:color/white</item> //color del hint
+        <item name="android:textSize">@dimen/edittext_size_login</item> //tamaño de la letra
+        <item name="android:textColorPrimary">@android:color/white</item> //color del texto que va a ir dentro del edit text
+        <item name="colorAccent">@android:color/white</item> //color del edit text cuando no se esta usando
+        <item name="colorControlActivated">@android:color/white</item> // color del puntero del edit text cuando le das click
+        <item name="colorControlNormal">@android:color/white</item> // color del puntero del edit text cuadno no se utiliza
+
+    </style>
+
+    //ediText login error
+
+    <style name="EditTextError" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@android:color/white</item> //color del hint
+        <item name="android:textSize">@dimen/edittext_size_login_error</item> //tamaño de la letra
+        <item name="android:textColorPrimary">@android:color/white</item> //color del texto que va a ir dentro del edit text
+        <item name="colorAccent">@android:color/white</item> //color del edit text cuando no se esta usando
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    //edit text registrar
+
+    <style name="EditTextBlack" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@android:color/black</item> //color del hint
+        <item name="android:textSize">@dimen/edittext_size_login</item> //tamaño de la letra
+        <item name="android:textColorPrimary">@android:color/black</item> //color del texto que va a ir dentro del edit text
+        <item name="colorAccent">@android:color/black</item> //color del edit text cuando no se esta usando
+        <item name="colorControlActivated">@android:color/black</item> // color del puntero del edit text cuando le das click
+        <item name="colorControlNormal">@android:color/black</item> // color del puntero del edit text cuadno no se utiliza
+
+    </style>
+
+
+    //edit text buscar
+
+    <style name="EditTextSearch" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">@android:color/darker_gray</item> //color del hint
+        <item name="android:textColorPrimary">@android:color/black</item> //color del texto que va a ir dentro del edit text
+        <item name="colorAccent">@android:color/transparent</item> //color del edit text cuando no se esta usando
+        <item name="colorControlActivated">@android:color/black</item> // color del puntero del edit text cuando le das click
+        <item name="colorControlNormal">@android:color/transparent</item> // color del puntero del edit text cuadno no se utiliza
+
+
+    </style>
+
+
+
+</resources>
