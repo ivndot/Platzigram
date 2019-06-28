@@ -54,13 +54,14 @@ public class Login extends AppCompatActivity implements LoginView {
                 if (!edtusername.getText().toString().isEmpty() && !edtpassword.getText().toString().isEmpty()) {
 
                     loginPresenter.sigIn(edtusername.getText().toString(), edtpassword.getText().toString());
-
+                    //hola mundo
                 }
 
 
                 if (edtusername.getText().toString().isEmpty()) {
 
                     layoutsername.setError("Llena este campo");
+
 
 
                 }else{
